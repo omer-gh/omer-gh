@@ -77,9 +77,6 @@ I'm a Software Engineer with **5+ years of experience** specializing in **Monoli
 ```
 
 ---
-
-## 🚀 Notable Projects
-
 ## 🚀 Notable Projects
 
 | Project | Tech | Description |
