@@ -4,7 +4,7 @@
 ### Sr. Software Engineer · Full-Stack Developer · DevOps Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umercse)
-[![Email](https://img.shields.io/badge/hire.umer@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:hire.umer@gmail.com)
+[![Email](https://img.shields.io/badge/hire.umer%20%5Bat%5D%20gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](https://linkedin.com/in/umercse)
 
 > *"Building secure, scalable solutions — one commit at a time."*
 
@@ -109,7 +109,7 @@ I'm a Software Engineer with **5+ years of experience** specializing in **Monoli
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umercse)
-[![Email](https://img.shields.io/badge/hire.umer@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:hire.umer@gmail.com)
+[![Email](https://img.shields.io/badge/hire.umer%20%5Bat%5D%20gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](https://linkedin.com/in/umercse)
 
 </div>
 
