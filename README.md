@@ -96,9 +96,11 @@ I'm a Software Engineer with **5+ years of experience** specializing in **Monoli
 
 <div align="center">
 
-![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omer-gh&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omer-gh&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true)](https://github.com/omer-gh)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-gh&layout=compact&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true)
+[![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omer-gh&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/omer-gh)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-gh&layout=compact&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/omer-gh)
 
 </div>
 
