@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Engineer with **5+ years of experience** specializing in **Monolithic, Modular, and Microservices Architecture**. I work with modern PHP and JavaScript frameworks to build applications that solve real business problems for startups and industry leaders.
+I'm a Software Engineer with **8+ years of experience** specializing in **Monolithic, Modular, and Microservices Architecture**. I work with modern PHP and JavaScript frameworks to build applications that solve real business problems for startups and industry leaders.
 
 - 🔭 Currently helping startups and SMEs build and scale through **full-stack development & software consulting**
 - 🛡️ Passionate about **Application Security**, **Clean Architecture**, and **DevOps**
